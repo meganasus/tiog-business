@@ -18,6 +18,7 @@ section.contact {
 }
 
 section.gallery h2 {
+    display: block;
     text-align: center;
 }
 
