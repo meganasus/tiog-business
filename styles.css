@@ -22,10 +22,6 @@ section.gallery {
     grid-template-columns: 3fr 1fr 3fr;
 }
 
-p.blank {
-    text-decoration: line-through;
-}
-
 @media (max-width: 780px) {
 
 }
