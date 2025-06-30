@@ -31,6 +31,10 @@ article.images {
     grid-template-columns: repeat(3, 1fr);
 }
 
+article.median {
+  text-align: center;
+}
+
 figcaption {
   border: 1px solid whitesmoke;
 }
