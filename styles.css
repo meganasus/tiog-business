@@ -8,6 +8,7 @@ header.contact {
     text-align: center;
     height: 100px;
     width: auto;
+    text-decoration-line: underline;
 }
 
 header.contact h1 {
