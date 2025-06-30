@@ -13,6 +13,10 @@ header.contact h1 {
     
 }
 
+section.about {
+  text-align: center;
+}
+
 section.logo {
   text-align: center;
 }
