@@ -31,6 +31,10 @@ article.images {
     grid-template-columns: repeat(3, 1fr);
 }
 
+figcaption {
+  border: 1px solid whitesmoke;
+}
+
 @media (max-width: 780px) {
 
 }
